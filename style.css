@@ -1,0 +1,24 @@
+body {
+  background-color: #f2f2f2;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#countdown {
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+#snake-game {
+    width: 500px;
+    height: 500px;
+    border:1px solid #d9d9d9;
+    margin:20px auto;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: 0 auto;
+}
